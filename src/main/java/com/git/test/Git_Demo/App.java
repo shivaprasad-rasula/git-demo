@@ -10,5 +10,11 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("shiva prasad rasula");
+        
+        Test();
     }
+
+	private static void Test() {
+	 System.out.println("git repository");
+	}
 }
