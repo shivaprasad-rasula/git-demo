@@ -12,9 +12,14 @@ public class App
         System.out.println("shiva prasad rasula");
         
         Test();
+		Test1();
     }
 
 	private static void Test() {
+	 System.out.println("git repository");
+	 System.out.println("shiva prasad rasula");
+	}
+	private static void Test1() {
 	 System.out.println("git repository");
 	 System.out.println("shiva prasad rasula");
 	}
